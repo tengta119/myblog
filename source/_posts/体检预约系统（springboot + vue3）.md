@@ -1,7 +1,14 @@
 ﻿---
 title: 体检预防系统
-categories: [开发, 业务]
-tags: [Java]
+categories:
+  - 后端开发
+  - SpringBoot
+tags:
+  - Java
+  - SpringBoot
+  - MyBatis
+  - Vue3
+  - MySQL
 date: 2024-11-17 17:14:31
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/avatar.jpg

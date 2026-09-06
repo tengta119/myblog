@@ -1,7 +1,11 @@
 ---
 title: NIO学习总结
-categories: [后端开发, Java基础]
-tags: [Java, NIO]
+categories:
+  - 编程语言
+  - Java
+tags:
+  - Java
+  - NIO
 date: 2025-01-01 10:31:33
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgpost04-01.png

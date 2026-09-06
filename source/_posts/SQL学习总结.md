@@ -1,7 +1,10 @@
 ---
 title: SQL学习总结
-categories: [数据库, SQL]
-tags: [SQL, 数据库]
+categories:
+  - 数据库
+tags:
+  - SQL
+  - 索引
 date: 2025-03-31 20:21:30
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgSQL%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93-01.png

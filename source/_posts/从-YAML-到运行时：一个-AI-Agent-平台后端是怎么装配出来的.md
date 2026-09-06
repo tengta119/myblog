@@ -1,7 +1,11 @@
 ---
 title: 从 YAML 到运行时：一个 AI Agent 平台后端是怎么装配出来的
-tags: [Agent]
-categories: [Java]
+tags:
+  - AI
+  - Agent
+  - SpringBoot
+categories:
+  - AI
 date: 2026-08-09 15:32:42
 mermaid: true
 description:

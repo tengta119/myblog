@@ -1,7 +1,13 @@
 ---
 title: Spring 源码阅读（循环依赖、Bean 生命周期、AOP、IOC） - 5.2.15.RELEASE
-categories: [后端开发, Spring源码]
-tags: [Java, Spring, IOC, AOP]
+categories:
+  - 后端开发
+  - Spring
+tags:
+  - Java
+  - Spring
+  - IOC
+  - AOP
 date: 2025-05-25 10:40:27
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgSpring%20%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%EF%BC%88%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96%E3%80%81Bean%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E3%80%81AOP%E3%80%81IOC%EF%BC%89%20-%205.2.15.RELEASE-01.png

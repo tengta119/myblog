@@ -1,7 +1,13 @@
 ---
 title: 基于 go 的分布式缓存
-categories: [项目开发, Go]
-tags: [Go, 分布式缓存]
+categories:
+  - 微服务与分布式
+tags:
+  - Go
+  - 分布式缓存
+  - etcd
+  - gRPC
+  - 一致性哈希
 date: 2025-10-13 20:52:23
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/img%E5%9F%BA%E4%BA%8E%20go%20%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98-01.png

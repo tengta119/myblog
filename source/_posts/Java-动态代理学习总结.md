@@ -1,7 +1,11 @@
 ---
 title: Java-动态代理学习总结
-categories: [后端开发, Java基础]
-tags: [Java, 动态代理]
+categories:
+  - 编程语言
+  - Java
+tags:
+  - Java
+  - 动态代理
 date: 2025-02-17 19:57:30
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgJava-%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93-01.png

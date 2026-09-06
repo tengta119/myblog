@@ -1,7 +1,10 @@
 ---
 title: 手写跳表 - Java
-categories: [数据结构与算法, Java]
-tags: [Java, 跳表]
+categories:
+  - 数据结构与算法
+tags:
+  - Java
+  - 跳表
 date: 2025-09-10 12:44:36
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/img%E6%89%8B%E5%86%99%E8%B7%B3%E8%A1%A8%20-%20Java-01.png

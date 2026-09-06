@@ -1,7 +1,11 @@
 ---
 title: JUC学习总结
-categories: [后端开发, Java并发]
-tags: [Java, JUC]
+categories:
+  - 编程语言
+  - Java并发
+tags:
+  - Java
+  - JUC
 date: 2024-12-27 17:11:17
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgpost02-01.png

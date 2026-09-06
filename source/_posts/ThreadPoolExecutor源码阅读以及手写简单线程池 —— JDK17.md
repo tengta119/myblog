@@ -1,7 +1,12 @@
 ---
 title: ThreadPoolExecutor源码阅读以及手写简单线程池 —— JDK17
-categories: [后端开发, Java源码]
-tags: [Java, 线程池, JDK17]
+categories:
+  - 编程语言
+  - Java并发
+tags:
+  - Java
+  - 线程池
+  - JDK17
 date: 2025-05-10 18:00:46
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgThreadPoolExecutor%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%BB%A5%E5%8F%8A%E6%89%8B%E5%86%99%E7%AE%80%E5%8D%95%E7%BA%BF%E7%A8%8B%E6%B1%A0%20%E2%80%94%E2%80%94%20JDK17-01.png

@@ -1,7 +1,15 @@
 ---
 title: SpringCloud学习总结
-categories: [后端开发, 微服务]
-tags: [Java, SpringCloud]
+categories:
+  - 微服务与分布式
+tags:
+  - Java
+  - SpringCloud
+  - Nacos
+  - OpenFeign
+  - Sentinel
+  - Seata
+  - Gateway
 date: 2025-01-31 21:52:29
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgSpringCloud%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93-01.png

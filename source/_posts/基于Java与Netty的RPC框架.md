@@ -1,7 +1,12 @@
 ---
 title: 基于Java与Netty的RPC框架
-categories: [项目开发, 分布式]
-tags: [Java, Netty, RPC]
+categories:
+  - 微服务与分布式
+tags:
+  - Java
+  - RPC
+  - Netty
+  - ZooKeeper
 date: 2025-02-24 21:35:43
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/img%E5%9F%BA%E4%BA%8EJava%E4%B8%8ENetty%E7%9A%84RPC%E6%A1%86%E6%9E%B6-01.png

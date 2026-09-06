@@ -1,7 +1,11 @@
 ﻿---
 title: 基于servlet的文件上传
-categories: [开发]
-tags: [Java]
+categories:
+  - 后端开发
+  - JavaWeb
+tags:
+  - Java
+  - Servlet
 date: 2024-09-17 17:10:15
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/avatar.jpg

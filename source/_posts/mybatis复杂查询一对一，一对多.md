@@ -1,7 +1,11 @@
 ---
 title: mybatis复杂查询一对一，一对多
-categories: [后端开发, MyBatis]
-tags: [Java, MyBatis]
+categories:
+  - 后端开发
+  - MyBatis
+tags:
+  - Java
+  - MyBatis
 date: 2024-11-29 21:08:16
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/avatar.jpg

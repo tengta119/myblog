@@ -1,7 +1,13 @@
 ---
 title: AI 应用开发
-categories: [AI应用, 开发实践]
-tags: [AI, 应用开发]
+categories:
+  - AI
+tags:
+  - AI
+  - SpringAI
+  - MCP
+  - RAG
+  - Agent
 date: 2025-10-27 11:45:14
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgAI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91-01.png

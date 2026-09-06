@@ -1,7 +1,12 @@
 ---
 title: MyDB - 手写数据库
-categories: [项目开发, 数据库]
-tags: [Java, 数据库, MyDB]
+categories:
+  - 数据库
+tags:
+  - Java
+  - 事务
+  - 索引
+  - MVCC
 date: 2025-05-05 19:42:46
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgMyDB%20-%20%E6%89%8B%E5%86%99%E6%95%B0%E6%8D%AE%E5%BA%93-01.png

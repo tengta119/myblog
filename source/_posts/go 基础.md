@@ -1,7 +1,10 @@
 ---
 title: go 基础
-categories: [后端开发, Go]
-tags: [Go]
+categories:
+  - 编程语言
+  - Go
+tags:
+  - Go
 date: 2025-10-03 16:01:51
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imggo%20%E5%9F%BA%E7%A1%80-01.png

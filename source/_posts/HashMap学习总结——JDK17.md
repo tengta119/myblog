@@ -1,7 +1,12 @@
 ---
 title: HashMap学习总结——JDK17
-categories: [后端开发, Java源码]
-tags: [Java, HashMap, JDK17]
+categories:
+  - 编程语言
+  - Java
+tags:
+  - Java
+  - HashMap
+  - JDK17
 date: 2025-03-22 17:14:25
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgHashMap%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94JDK17-01.png

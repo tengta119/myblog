@@ -1,7 +1,11 @@
 ---
 title: Java并发编程基础篇
-categories: [后端开发, Java并发]
-tags: [Java, 多线程]
+categories:
+  - 编程语言
+  - Java并发
+tags:
+  - Java
+  - 多线程
 date: 2024-12-09 19:28:39
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgpost01-01.png

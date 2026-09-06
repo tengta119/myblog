@@ -1,7 +1,14 @@
 ---
 title: 小型支付系统（MVC、DDD）
-categories: [项目开发, 架构设计]
-tags: [Java, MVC, DDD, 支付系统]
+categories:
+  - 后端开发
+  - 架构设计
+tags:
+  - Java
+  - MVC
+  - DDD
+  - 支付宝
+  - 微信公众号
 date: 2025-05-23 11:30:00
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/img%E5%B0%8F%E5%9E%8B%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%EF%BC%88MVC%E3%80%81DDD%EF%BC%89-01.png

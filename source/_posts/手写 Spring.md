@@ -1,7 +1,13 @@
 ---
 title: 手写 Spring
-categories: [后端开发, 框架源码]
-tags: [Java, Spring, IOC, AOP]
+categories:
+  - 后端开发
+  - Spring
+tags:
+  - Java
+  - Spring
+  - IOC
+  - AOP
 date: 2025-08-10 14:08:53
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/img%E6%89%8B%E5%86%99%20Spring-01.png

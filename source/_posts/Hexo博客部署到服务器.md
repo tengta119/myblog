@@ -1,7 +1,13 @@
 ---
 title: Hexo博客部署到服务器
-tags: [Hexo, Nginx, Docker, HTTPS, CDN]
-categories: [建站]
+tags:
+  - Hexo
+  - Nginx
+  - Docker
+  - HTTPS
+  - CDN
+categories:
+  - 工具与建站
 type: story
 date: 2025-07-05 16:44:25
 cover:

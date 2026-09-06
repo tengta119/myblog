@@ -1,7 +1,11 @@
 ---
 title: JVM 学习总结
-categories: [后端开发, JVM]
-tags: [Java, JVM]
+categories:
+  - 编程语言
+  - JVM
+tags:
+  - Java
+  - JVM
 date: 2025-08-02 00:20:41
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgJVM%20%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93-01.png

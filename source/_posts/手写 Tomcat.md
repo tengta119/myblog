@@ -1,7 +1,12 @@
 ---
 title: 手写 Tomcat
-categories: [后端开发, Web容器]
-tags: [Java, Tomcat, Servlet]
+categories:
+  - 后端开发
+  - JavaWeb
+tags:
+  - Java
+  - Tomcat
+  - Servlet
 date: 2025-09-04 11:55:24
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/img%E6%89%8B%E5%86%99%20Tomcat-01.png

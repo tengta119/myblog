@@ -1,7 +1,15 @@
 ---
 title: SpringBoot3+Vue3 前后端分离项目基于Jwt的校验方案
-categories: [项目开发, SpringBoot]
-tags: [Java, SpringBoot, Vue3, JWT]
+categories:
+  - 后端开发
+  - SpringBoot
+tags:
+  - Java
+  - SpringBoot
+  - Vue3
+  - JWT
+  - SpringSecurity
+  - Redis
 date: 2024-11-27 09:46:41
 description:
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/imgpost05-01.png
