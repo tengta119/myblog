@@ -14,10 +14,12 @@ logo:
   subtitle: '开发糕手 | hello' # '文字1 | 文字2' (鼠标放上去会切换到文字2)
   avatar: '[{config.avatar}](/about/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
 
-features:
-  diagrams:
-    provider: mermaid
-    mermaid:
-      theme: neutral
+appearance:
+  preset: minimal
+  color_scheme: auto
+  colors:
+    primary: '#39a7b5'
+    accent: '#ee7858'
+    link: '#287cc1'
 
 
