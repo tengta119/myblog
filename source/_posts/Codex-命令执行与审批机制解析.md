@@ -9,6 +9,9 @@ categories:
 type: story
 date: 2026-09-06 15:00:03
 cover: https://map-bed-lbwxxc.oss-cn-beijing.aliyuncs.com/codex-%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E4%B8%8E%E5%AE%A1%E6%89%B9%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-01.png
+render:
+  diagrams: mermaid
+
 ---
 
 >  **execpolicy 规则 → 危险命令启发式 → 审批策略 → 沙箱 → 权限升级重试** 的完整过程。
